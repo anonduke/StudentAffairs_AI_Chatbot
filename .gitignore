@@ -1,0 +1,9 @@
+.venv/
+.idea/
+*.pyc
+__pycache__/
+.streamlit/
+glove.6B.50d.txt
+glove.6B.50d.word2vec.txt
+.env
+bfg-1.14.0.jar
